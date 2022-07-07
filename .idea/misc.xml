@@ -10,6 +10,7 @@
         <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/drawable/button_image_white.xml" value="0.1" />
         <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/drawable/facebook_logo.xml" value="0.1" />
         <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/drawable/get_started_button.xml" value="0.1" />
+        <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/drawable/ic_back_arrow.xml" value="0.1" />
         <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/drawable/ic_facebook_logo.xml" value="0.1" />
         <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/drawable/ic_google_logo.xml" value="0.1" />
         <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/drawable/ic_horizontal_line.xml" value="0.1" />
@@ -18,8 +19,10 @@
         <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/drawable/layered_drawable_facebook.xml" value="0.1" />
         <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/drawable/layered_drawable_google.xml" value="0.1" />
         <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/drawable/regular_button.xml" value="0.1" />
-        <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
-        <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/layout/authorization_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/layout-land/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/layout-land/authorization_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/layout/authorization_activity.xml" value="0.4466666666666667" />
         <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/mipmap-anydpi-v26/background.xml" value="0.1" />
         <entry key="..\:/Users/Tengo/AndroidStudioProjects/TBC_HomeWork_8/app/src/main/res/mipmap-anydpi-v26/background_round.xml" value="0.1" />
       </map>

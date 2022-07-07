@@ -1,5 +1,6 @@
 package com.example.tbc_homework_8
 
+import android.content.Intent
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -25,6 +26,13 @@ class MainActivity : AppCompatActivity() {
         spannableString.setSpan(fcsGreen,36, 43, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
         mainTextView.setText(spannableString)
 
-
+        var getStarted = binding.getStartedButton
+        getStarted.setOnClickListener{
+            Intent(this, AuthorationActivity::class.java).also{
+                startActivity(it)
+                overridePendingTransition(R.anim.slide_in_right, R.anim.slide_out_left)
+                finish()
+            }
+        }
     }
 }
